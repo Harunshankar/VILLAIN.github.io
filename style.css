@@ -7,7 +7,7 @@ body{
 }
 nav{
 	background: #0082e6;
-	height: 120px;
+	height: 160px;
 	width: 100%;
 	position: fixed;
 }
@@ -146,7 +146,7 @@ text-shadow: 14px 14px 14px #fff;
 }
 
 .button {
-	position: absolute;
+	position: absolute relative;
 	bottom: 80%;
 	right: 15%;
 	transform-origin: right bottom;
